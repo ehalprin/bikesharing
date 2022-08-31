@@ -50,13 +50,13 @@ Description
 
 #### Trips by Weekday per Gender
 
-![Trips by Weekday per Gender](https://github.com/ehalprin/bikesharing/blob/main/images/Trips_by_Weekday_per_Gender.png)
+![Trips by Weekday per Gender](https://github.com/ehalprin/bikesharing/blob/main/images/Trips_By_Weekday_per_Gender.png)
 
 Description
 
 #### User Types by Weekday by Gender
 
-![User Types by Weekday by Gender](https://github.com/ehalprin/bikesharing/blob/main/images/UserTrips_by_Gender_by_Weekday.png)
+![User Types by Weekday by Gender](https://github.com/ehalprin/bikesharing/blob/main/images/UserTrips_By_Gender_By_Weekday.png)
 
 Description
 
