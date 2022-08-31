@@ -62,4 +62,4 @@ Description
 
 ## Summary
 
-### Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
