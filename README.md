@@ -38,7 +38,7 @@ Description
 
 #### Trip Duration by Gender
 
-![Trip Duration by Gender](https://github.com/ehalprin/bikesharing/blob/main/images/Checkout_Times_by_Gender.png)
+![Trip Duration by Gender](https://github.com/ehalprin/bikesharing/blob/main/images/Checkout_Times_By_Gender.png)
 
 Description
 
